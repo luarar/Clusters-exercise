@@ -1,6 +1,6 @@
 ### Miroculus challenge
 
-Please run yarn & yarn dev to init the application.
+Please run yarn dev to init the application.
 
 Tasks:
 ● Describe how do you measure distance
