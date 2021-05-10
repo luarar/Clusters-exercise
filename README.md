@@ -1,4 +1,4 @@
-### Miroculus challenge
+### Clusters excercise
 
 Please run yarn dev to init the application.
 
